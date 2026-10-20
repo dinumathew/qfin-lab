@@ -1,0 +1,12 @@
+# QFin Lab — used by Streamlit Community Cloud and for local installs (Python 3.11+)
+qiskit==2.6.*
+qiskit-aer==0.17.*
+qiskit-ibm-runtime
+numpy
+scipy
+pandas
+plotly
+cryptography
+pytest
+streamlit>=1.40
+anthropic

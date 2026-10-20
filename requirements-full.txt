@@ -1,0 +1,4 @@
+# Adds the PQC and TLS-scanning tools needed from module I11 onwards (local machines; liboqs builds on first import)
+-r requirements.txt
+liboqs-python
+sslyze

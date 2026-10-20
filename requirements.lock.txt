@@ -1,0 +1,14 @@
+# Exact versions the self-test passed on (2026-10-19, Linux, Python 3.13). Use: pip install -r requirements.lock.txt
+anthropic==1.15.0
+cryptography==46.0.7
+liboqs-python==0.16.0.1
+numpy==2.5.4
+pandas==3.0.6
+plotly==7.1.0
+pytest==9.1.1
+qiskit==2.6.0
+qiskit-aer==0.17.2
+qiskit-ibm-runtime==0.50.0
+scipy==1.18.1
+sslyze==6.3.1
+streamlit==1.66.0
